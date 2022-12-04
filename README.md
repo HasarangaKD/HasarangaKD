@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm K.D.Hasaranga</h1>
-<h3 align="center">I'm 3rd year undergraduate at Sri Lanka Institute of Information Technology.</h3>
+<h3 align="center">I'm 4rd year undergraduate at Sri Lanka Institute of Information Technology.</h3>
 
-- 🔭 I’m currently working on **MERN stack project**
+- 🔭 I’m currently working on **Laraval project**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **PHP Laraval**
 
 - 💬 Ask me about **Full stack web development**
 
